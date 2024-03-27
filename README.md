@@ -32,9 +32,10 @@ Sky High Airlines Booking System is a simple command-line application for managi
    ./main
    ```
 ## output
-SKY High Airlines
+#### SKY High Airlines
 
-Main Menu
+#### Main Menu
+#### 
 ________________________________________
 |                                     |
 |  1. Add Passenger Details           |
